@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[VRCardoso]]></title>
+        <description><![CDATA[VRCardoso]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 01 Aug 2016 20:56:54 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/955d2802-7856-4467-accd-1aa4db41db61.jpg">]]></description>
+            <link>undefinedeb8f0f59-b214-429a-abf5-9d78969e7ff3/index.html</link>
+            <guid isPermaLink="false">eb8f0f59-b214-429a-abf5-9d78969e7ff3</guid>
+            <pubDate>Mon, 01 Aug 2016 20:56:52 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
